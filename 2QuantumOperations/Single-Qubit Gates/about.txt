@@ -1,0 +1,1 @@
+kode program di dalam folder ini adalah kode program jupyter notebook untuk pemula, dari tutorial di web QuantumCybersecurity.id / KeamananSiber.id
